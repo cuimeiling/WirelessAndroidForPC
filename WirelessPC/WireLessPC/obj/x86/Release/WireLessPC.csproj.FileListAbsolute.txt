@@ -1,0 +1,9 @@
+G:\WireLessPC\WireLessPC\bin\Release\WireLessPC.exe
+G:\WireLessPC\WireLessPC\bin\Release\WireLessPC.pdb
+G:\WireLessPC\WireLessPC\obj\x86\Release\ResolveAssemblyReference.cache
+G:\WireLessPC\WireLessPC\obj\x86\Release\WireLessPC.mainform.resources
+G:\WireLessPC\WireLessPC\obj\x86\Release\WireLessPC.Properties.Resources.resources
+G:\WireLessPC\WireLessPC\obj\x86\Release\GenerateResource.read.1.tlog
+G:\WireLessPC\WireLessPC\obj\x86\Release\GenerateResource.write.1.tlog
+G:\WireLessPC\WireLessPC\obj\x86\Release\WireLessPC.exe
+G:\WireLessPC\WireLessPC\obj\x86\Release\WireLessPC.pdb
